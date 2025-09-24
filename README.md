@@ -42,20 +42,29 @@ Welcome to my engineering portfolio. This space showcases my work in CFD validat
 
 ---
 
-### 🚗 Simulation-Driven Optimization in Automotive Engineering – Hyundai Motor India Engineering (2020–2024)  
+### 🚗 Representative Sample Work – Hyundai Motor India Engineering (2020–2024)  
 **Role:** Research Engineer – CAE & Simulation  
 **Location:** Hyderabad, Telangana  
-**Tools Used:** ANSYS Fluent, HyperMesh, ABAQUS, SolidWorks, MATLAB, Tecplot  
+**Note:** Due to confidentiality agreements, specific project data and visuals are not publicly shareable. Below is a representative overview of the scope, impact, and technical contributions.
 
-**Highlights:**  
-- Conducted stiffness analysis on 10+ belt line structures, improving vibration resistance and structural safety by ~15%  
-- Modeled and optimized 15+ multi-body FEA systems, accelerating damage prediction with 20% faster turnaround  
-- Standardized regional CAE workflows, boosting simulation productivity by 25% across cross-functional teams  
-- Tested and deployed in-house automation tools, reducing manual effort by ~40% and improving process reliability  
-- Segregated and managed 1000+ simulation datasets, enhancing tool efficiency, traceability, and data-driven decision-making  
-- Presented technical papers on:
-  - *Hydro-locking effects in IC engines*  
-  - *Golf ball dynamics and its influence on sunroof performance*
+**Scope of Work:**  
+- Led simulation-driven design and validation for structural and thermal-fluid systems across multiple vehicle platforms  
+- Applied advanced FEA and CFD techniques to optimize component durability, vibration resistance, and thermal performance  
+- Developed and deployed automation tools to streamline post-processing and reduce manual effort  
+- Standardized simulation workflows across cross-functional teams, improving productivity and traceability  
+- Managed large-scale simulation datasets and supported data-driven decision-making for design iterations  
+- Authored internal technical papers on hydro-locking phenomena in IC engines and aerodynamic effects on sunroof dynamics
+
+**Key Contributions:**  
+- Improved structural safety through stiffness analysis of belt line assemblies  
+- Accelerated damage prediction in multi-body systems with optimized FEA modeling  
+- Reduced simulation turnaround time by 20% and manual effort by ~40%  
+- Enhanced simulation reliability and reproducibility across regional teams  
+- Delivered insights that influenced design modifications and SOP readiness
+
+**Narrative Summary:**  
+This body of work reflects my ability to translate complex engineering challenges into validated, simulation-backed solutions. While the proprietary nature of the projects limits public disclosure, the methodologies and outcomes demonstrate my expertise in CAE, automation, and cross-functional collaboration.
+
 
 ---
 
